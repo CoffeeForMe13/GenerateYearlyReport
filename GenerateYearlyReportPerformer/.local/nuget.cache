@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jIZXt3ZAtVhmZ1V1/5UupbD7okvgpLFTQh1zTn2RkYkdJ0S2mNpxvV9r8a/RnTfptJbeu/8j3NUNPzI9NZ2dCw==",
+  "dgSpecHash": "PmFLr6kE3vW4Te+3Mfrv4/LwWlb16WE8vW7j6dYzsiCB7XrSXUwcrfcX4QSOJM5nyIHCvU+Yrjfr0VZzD2/qIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adyma\\Documents\\UiPath\\Aplicatii\\GenerateYearlyReportPerformer\\.local\\",
+  "projectFilePath": "C:\\Users\\adyma\\Documents\\GitHub\\GenerateYearlyReport\\GenerateYearlyReportPerformer\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\adyma\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\adyma\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",

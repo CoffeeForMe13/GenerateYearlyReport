@@ -5056,9 +5056,9 @@
     "restore": {
       "projectUniqueName": "GenerateYearlyReport",
       "projectName": "GenerateYearlyReport",
-      "projectPath": "C:\\Users\\adyma\\Documents\\UiPath\\Aplicatii\\GenerateYearlyReportDispatcher\\.local",
+      "projectPath": "C:\\Users\\adyma\\Documents\\GitHub\\GenerateYearlyReport\\GenerateYearlyReportDispatcher\\.local",
       "packagesPath": "C:\\Users\\adyma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adyma\\Documents\\UiPath\\Aplicatii\\GenerateYearlyReportDispatcher\\.local"
+      "outputPath": "C:\\Users\\adyma\\Documents\\GitHub\\GenerateYearlyReport\\GenerateYearlyReportDispatcher\\.local"
     },
     "frameworks": {
       "net461": {
